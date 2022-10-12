@@ -42,8 +42,9 @@
 }
 
 .button:hover {
-
+    background: #3fa0ff;
 }
-.button:active {
 
+.button:active {
+    background: #00509d;
 }
